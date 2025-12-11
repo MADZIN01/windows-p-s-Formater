@@ -105,7 +105,7 @@ Este projeto foi criado para facilitar a reinstalação de programas essenciais 
 
 ```powershell
 # Baixar o script
-Invoke-WebRequest -Uri "https://raw.githubusercontent.com/MADZIN01/windows-post-format-kit/main/instalador.ps1" -OutFile "instalador.ps1"
+Invoke-WebRequest -Uri "https://raw.githubusercontent.com/MADZIN01/windows-p-s-Formater/main/instalador.ps1" -OutFile "instalador.ps1"
 
 # Executar
 powershell -ExecutionPolicy Bypass -File .\instalador.ps1
@@ -114,8 +114,8 @@ powershell -ExecutionPolicy Bypass -File .\instalador.ps1
 ### Método 3: Clone o Repositório
 
 ```bash
-git clone https://github.com/MADZIN01/windows-post-format-kit.git
-cd windows-post-format-kit
+git clone https://github.com/MADZIN01/windows-p-s-Formater.git
+cd windows-p-s-Formater
 powershell -ExecutionPolicy Bypass -File .\instalador.ps1
 ```
 
@@ -179,8 +179,8 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 ## 📞 Suporte
 
 Se encontrar algum problema ou tiver sugestões:
-- Abra uma [Issue](https://github.com/MADZIN01/windows-post-format-kit/issues)
-- Entre em contato via [Discussions](https://github.com/MADZIN01/windows-post-format-kit/discussions)
+- Abra uma [Issue](https://github.com/MADZIN01/windows-p-s-Formater/issues)
+- Entre em contato via [Discussions](https://github.com/MADZIN01/windows-p-s-Formater/discussions)
 
 ---
 
